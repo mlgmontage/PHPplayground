@@ -6,7 +6,7 @@
 
 - [x] Hello world
 - [x] Array Sum
-- [ ] Array Reverse
+- [x] Array Reverse
 - [ ] String Reverse
 - [ ] Palindrome Check
 - [ ] Factorial
