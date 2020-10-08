@@ -5,7 +5,7 @@
 ## Warm-up problems
 
 - [x] Hello world
-- [ ] Array Sum
+- [x] Array Sum
 - [ ] Array Reverse
 - [ ] String Reverse
 - [ ] Palindrome Check
