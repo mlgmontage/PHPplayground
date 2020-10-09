@@ -9,5 +9,5 @@
 - [x] Array Reverse
 - [ ] String Reverse
 - [ ] Palindrome Check
-- [ ] Factorial
+- [x] Factorial
 - [ ] Diagonal Sum
