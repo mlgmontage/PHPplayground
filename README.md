@@ -10,4 +10,4 @@
 - [x] String Reverse
 - [ ] Palindrome Check
 - [x] Factorial
-- [ ] Diagonal Sum
+- [x] Diagonal Sum
