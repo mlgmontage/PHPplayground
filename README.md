@@ -11,3 +11,7 @@
 - [ ] Palindrome Check
 - [x] Factorial
 - [x] Diagonal Sum
+
+## Design patterns
+
+- [x] Factory
