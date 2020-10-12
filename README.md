@@ -19,6 +19,10 @@
 
 - [x] Factory
 
+### Structural
+
+- [x] State
+
 ### Behavioral
 
 - [x] Iterator
