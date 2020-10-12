@@ -11,6 +11,7 @@
 - [ ] Palindrome Check
 - [x] Factorial
 - [x] Diagonal Sum
+- [x] Passing an object
 
 ## Design patterns
 
