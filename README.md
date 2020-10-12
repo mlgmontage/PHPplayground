@@ -15,4 +15,10 @@
 
 ## Design patterns
 
+### Creational
+
 - [x] Factory
+
+### Behavioral
+
+- [x] Iterator
